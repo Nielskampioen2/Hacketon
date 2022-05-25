@@ -10,15 +10,15 @@
 <body>
     <section class="navbar">
         <ul>
-          <li><a href="Home.php">home</a></li>
-          <li><a href="aboutus.php">about us</a></li>
-          <li><a href="contact.php">contact</a></li>
-          <li><a href="collectie.php">collectie</a></li>
-          <li><a href="game">game</a></li>
-          <li><a href="login.php">login</a></li>
+          <li><a href="Home.php">Home</a></li>
+          <li><a href="aboutus.php">About Us</a></li>
+          <li><a href="contact.php">Contact</a></li>
+          <li><a href="collectie.php">Collectie</a></li>
+          <li><a href="game">Game</a></li>
+          <li><a href="login.php">Login</a></li>
           <li><img src="images/pikachu.png" width="45px">
-</ul>
-</section>
+        </ul>
+    </section>
 <section class="extranav"><p>.</p></section>
 </body>
 </html>
