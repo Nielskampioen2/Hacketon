@@ -8,6 +8,6 @@
     <title>Poketon</title>
 </head>
 <body>
-    <p>ttttt</p>
+    <section class="navbar"><nav><a href="Home.php">HOME</a></nav></section>
 </body>
 </html>
