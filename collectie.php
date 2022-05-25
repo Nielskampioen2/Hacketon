@@ -21,9 +21,54 @@
     </section>
 <section class="extranav"><p>.</p></section>
 
-<section class="body">
-<p></p>
-<img src="images/pikachu.png">
+<section class="row1">
+
+<section class="pokemon1">
+<img src="images/pikachu.png" width="200px">
+<a href="game.php">pikachu</a> 
+</section>
+
+<section class="pokemon1">
+<img src="images/pikachu.png" width="200px">
+<a href="game.php">pikachu</a> 
+</section>
+
+<section class="pokemon1">
+<img src="images/pikachu.png" width="200px">
+<a href="game.php">pikachu</a> 
+</section>
+
+<section class="pokemon1">
+<img src="images/pikachu.png" width="200px">
+<a href="game.php">pikachu</a> 
+</section>
+
+
+</section>
+
+
+<section class="row2">
+
+<section class="pokemon1">
+<img src="images/pikachu.png" width="200px">
+<a href="game.php">pikachu</a> 
+</section>
+
+<section class="pokemon1">
+<img src="images/pikachu.png" width="200px">
+<a href="game.php">pikachu</a> 
+</section>
+
+<section class="pokemon1">
+<img src="images/pikachu.png" width="200px">
+<a href="game.php">pikachu</a> 
+</section>
+
+<section class="pokemon1">
+<img src="images/pikachu.png" width="200px">
+<a href="game.php">pikachu</a> 
+</section>
+
 
 </section>
 

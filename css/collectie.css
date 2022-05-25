@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: gray;
+    background-color: white;
     
 }
 
@@ -35,3 +35,32 @@ a:link, a:visited, a:active {
     height: 1.5vw;
 }
 
+.row1{
+    font-family: sans-serif;
+    font-size: 40px;
+    display: grid;
+    grid-template-columns: repeat(4, 20vw);
+    place-items: center;
+    border-bottom: solid black 20px;
+    height: 40vh;
+}
+.row1 a{color: black;}
+.row1 a:hover{color: grey;}
+.row1 section{
+    width: 10px;
+}
+
+
+.row2{
+    font-family: sans-serif;
+    font-size: 40px;
+    display: grid;
+    grid-template-columns: repeat(4, 20vw);
+    place-items: center;
+    height: 40vh;
+}
+.row2 a{color: black;}
+.row2 a:hover{color: grey;}
+.row2 section{
+    width: 10px;
+}
