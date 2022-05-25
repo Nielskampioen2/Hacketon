@@ -20,5 +20,15 @@
         </ul>
     </section>
 <section class="extranav"><p>.</p></section>
+
+
+<section class="welcome"><img src="images/poketon-welcome.png"></section>
+<section class="menu">
+<section class="aboutus"><a href="aboutus.php"><img src="images/pikachu3.png" width="150px"><p>about us</p></a></section>
+<section class="contact"><a href="contact.php"><img src="images/pikachu2.png" width="150px"><p>contact</p></a></section>
+<section class="collectie"><a href="aboutus.php"><img src="images/pikachu.png" width="150px"><p>collectie</p></a></section>
+<section class="game"><a href="game.php"><img src="images/pikachu4.png" width="150px"><p>game</p></a></section>
+</section>
+
 </body>
 </html>
