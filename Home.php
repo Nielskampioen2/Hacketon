@@ -8,6 +8,17 @@
     <title>Poketon</title>
 </head>
 <body>
-    <section class="navbar"><nav><a href="Home.php">HOME</a></nav></section>
+    <section class="navbar">
+        <ul>
+          <li><a href="Home.php">home</a></li>
+          <li><a href="aboutus.php">about us</a></li>
+          <li><a href="contact.php">contact</a></li>
+          <li><a href="collectie.php">collectie</a></li>
+          <li><a href="game">game</a></li>
+          <li><a href="login.php">login</a></li>
+          <li><img src="images/pikachu.png" width="45px">
+</ul>
+</section>
+<section class="extranav"><p>.</p></section>
 </body>
 </html>
