@@ -37,6 +37,13 @@ a:link, a:visited, a:active {
     height: 1.5vw;
 }
 
-.profiel1{
-    width: 50px;
+.p1{
+    text-align: center;
+    width: 40vw;
+    height: 45vh;
+    background-color: white;
+    border: solid black 10px;
+    position: relative;
+    left: 29vw;
+    top: 15vh;
 }
