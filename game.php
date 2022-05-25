@@ -14,7 +14,7 @@
           <li><a href="aboutus.php">About Us</a></li>
           <li><a href="contact.php">Contact</a></li>
           <li><a href="collectie.php">Collectie</a></li>
-          <li><a href="game">Game</a></li>
+          <li><a href="game.php">Game</a></li>
           <li><a href="login.php">Login</a></li>
           <li><img src="images/pikachu.png" width="45px">
         </ul>
