@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+    background-image: url("pikachu.png");
+    background-size: 10vw;
+    
+}
+
+.navbar{
+    
+    font-size: 2vw;
+    background-color: red;
+    height: 3.5vw;
+}
+
+.navbar li{
+    list-style: none;
+    float: left;
+    padding-left: 2vw;
+    position: relative;
+    top:0.5vw;
+    
+
+}
+
+a:link, a:visited, a:active {
+    text-decoration: none;
+    color: white;
+}
+.extranav{
+    background-color: black;
+    color: black;
+    height: 1.5vw;
+}
+.body{
+    background-color: white;
+    border: solid red 5px ;
+    position: relative;
+    left: 24vw;
+    top: 2.5vw;
+    height: auto;
+    width: 50vw;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.pokedex{
+    position: relative;
+    left: 12vw;
+    text-align: center;
+    background-color: #30A7D7;
+    width: 25vw;
+    color: white;
+    font-size: 120%;
+}
+
+.height h2{
+    color: black;
+}
+
+.stats{
+    display: grid;
+    grid-template-columns: 2vw 2vw;
+    column-gap: 100px;
+    position: relative;
+    left: 6vw;
+
+}
+.tocollection a{
+    color:black;
+    font-size: 4vw;
+}
+.tocollection a:hover{
+    color:grey;
+    font-size: 4vw;
+}

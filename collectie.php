@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <link rel="stylesheet" href="css/Style.css">
+    <link rel="stylesheet" href="css/collectie.css">
     <title>Poketon</title>
 </head>
 <body>
@@ -20,5 +20,12 @@
         </ul>
     </section>
 <section class="extranav"><p>.</p></section>
+
+<section class="body">
+<p></p>
+<img src="images/pikachu.png">
+
+</section>
+
 </body>
 </html>

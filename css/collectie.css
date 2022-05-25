@@ -5,6 +5,9 @@
 
 body {
     background-color: white;
+    background-image: url("pikachu.png");
+    background-size: 10vw;
+    
 }
 
 .navbar{
@@ -33,3 +36,4 @@ a:link, a:visited, a:active {
     color: black;
     height: 1.5vw;
 }
+
