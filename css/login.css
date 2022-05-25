@@ -36,3 +36,14 @@ a:link, a:visited, a:active {
     color: black;
     height: 1.5vw;
 }
+
+.b{
+    text-align: center;
+    background-color: white;
+    border: grey 10px solid;
+    width: 50vw;
+    height: auto;
+    position: relative;
+    left: 24vw;
+    top: 10vh
+}

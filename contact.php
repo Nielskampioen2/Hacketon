@@ -26,8 +26,6 @@
 <p>email:</p><br>
 <input type="text"><br><br>
 <input class="t" type="text">
-
-
 </section>
 
 

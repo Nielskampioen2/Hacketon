@@ -38,6 +38,7 @@ a:link, a:visited, a:active {
 }
 
 .b{
+    text-align: center;
     background-color: white;
     border: black 10px solid;
     width: 50vw;

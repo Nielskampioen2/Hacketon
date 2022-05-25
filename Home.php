@@ -26,7 +26,7 @@
 <section class="menu">
 <section class="aboutus"><a href="aboutus.php"><img src="images/pikachu3.png" width="150px"><p>about us</p></a></section>
 <section class="contact"><a href="contact.php"><img src="images/pikachu2.png" width="150px"><p>contact</p></a></section>
-<section class="collectie"><a href="aboutus.php"><img src="images/pikachu.png" width="150px"><p>collectie</p></a></section>
+<section class="collectie"><a href="collectie.php"><img src="images/pikachu.png" width="150px"><p>collectie</p></a></section>
 <section class="game"><a href="game.php"><img src="images/pikachu4.png" width="150px"><p>game</p></a></section>
 </section>
 

@@ -20,5 +20,17 @@
         </ul>
     </section>
 <section class="extranav"><p>.</p></section>
+
+
+<section class="b">
+<p>naam:</p><br>
+<input type="text"><br><br>
+<p>wachtwoord:</p>
+<input class="t" type="password"><br>
+<button>login</button>
+</section>
+
+
+
 </body>
 </html>
