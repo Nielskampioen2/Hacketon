@@ -22,14 +22,13 @@
 <section class="extranav"><p>.</p></section>
 
 
-
-<section class="form">
-<p>e-mail:</p>
+<section class="b">
+<p>email:</p><br>
 <input type="text"><br><br>
-<input type="text">
+<input class="t" type="text">
+
+
 </section>
-
-
 
 
 </body>

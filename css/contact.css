@@ -37,8 +37,17 @@ a:link, a:visited, a:active {
     height: 1.5vw;
 }
 
-
-.form{
+.b{
     background-color: white;
-    
+    border: black 10px solid;
+    width: 50vw;
+    height: auto;
+    position: relative;
+    left: 24vw;
+    top: 10vh
+}
+
+.t{
+    width: 500px;
+    height: 100px;
 }
