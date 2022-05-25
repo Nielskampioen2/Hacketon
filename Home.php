@@ -8,6 +8,12 @@
     <title>Poketon</title>
 </head>
 <body>
-    <p>ttttt</p>
+    <nav>
+        <a class='homenav' href="Home.php">Home</a>
+        <a class='homenav' href="Collection.php">Collection</a>
+        <a class='homenav' href="Game.php"></a>
+        <a class='homenav' href="About.php">About</a>
+        <a class='homenav' href="Contact.php">Contact</a>
+    </nav>
 </body>
 </html>
